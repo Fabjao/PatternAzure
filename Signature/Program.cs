@@ -24,6 +24,7 @@ namespace Signature
 
             Console.WriteLine(blob.Uri + sas);
             Console.Read();
+            // Comentario teste GIT //
         }
     }
 }
